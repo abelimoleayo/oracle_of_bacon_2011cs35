@@ -1,4 +1,4 @@
-/* Author: Imoleayo Abel (all methods but copy constructor written by Prof. Charlie Garrod)
+/* Author: Imoleayo Abel
  * CS35 Lab 11
  * November 21, 2011
  *
