@@ -383,8 +383,9 @@ Keenan	Wynn	Dr. Strangelove	1964
 Slim	Pickens	Dr. Strangelove	1964
 Tracy	Reed	Dr. Strangelove	1964
 Group	Captain	Dr. Strangelove	1964
-President Merkin Muffley,	the	Dr. Strangelove	1964
-Dr. Strangelove,	the	Dr. Strangelove	1964
+President Merkin	Muffley	Dr. Strangelove	1964
+	the	Dr. Strangelove	1964
+Dr.	Strangelove	Dr. Strangelove	1964
 Peter	Bull	Dr. Strangelove	1964
 James Earl	Jones	Dr. Strangelove	1964
 Shane	Rimmer	Dr. Strangelove	1964
@@ -614,7 +615,8 @@ Yoshio	Tsuchiya	Son of Godzilla	1967
 Kenji	Sahara	Son of Godzilla	1967
 Kenichiro	Maruyama	Son of Godzilla	1967
 Seishiro	Kuno	Son of Godzilla	1967
-Hiroshi Sekita, Seiji	Onaka,	Son of Godzilla	1967
+Hiroshi	Sekita	Son of Godzilla	1967
+ Seiji	Onaka	Son of Godzilla	1967
 Marchan the	Dwarf	Son of Godzilla	1967
 Jun	Tazaki	Destroy All Monsters	1968
 Yoshio	Tsuchiya	Destroy All Monsters	1968
@@ -889,7 +891,8 @@ Lea	Salonga	My Neighbor Totoro	1988
 Frank	Welker	My Neighbor Totoro	1988
 Toshiyuki	Amagasa	My Neighbor Totoro	1988
 Kenneth	Hartman	My Neighbor Totoro	1988
-Paul Butcher,	Jr.	My Neighbor Totoro	1988
+Paul	Butcher	My Neighbor Totoro	1988
+	Jr.	My Neighbor Totoro	1988
 Tanie	Kitabayashi	My Neighbor Totoro	1988
 Natalie	Core	My Neighbor Totoro	1988
 Pat	Carroll	My Neighbor Totoro	1988
@@ -1009,7 +1012,8 @@ Juliette	Lewis	Natural Born Killers	1994
 Robert Downey	Jr.	Natural Born Killers	1994
 Tommy Lee	Jones	Natural Born Killers	1994
 Tom	Sizemore	Natural Born Killers	1994
-Robert Downey,	Jr.	Natural Born Killers	1994
+Robert	Downey	Natural Born Killers	1994
+	Jr.	Natural Born Killers	1994
 Rodney	Dangerfield	Natural Born Killers	1994
 Edie	McClurg	Natural Born Killers	1994
 Sean	Stone	Natural Born Killers	1994
@@ -1052,7 +1056,7 @@ Wayne	Duvall	O Brother, Where Art Thou?	2000
 Ray	McKinnon	O Brother, Where Art Thou?	2000
 Stephen	Root	O Brother, Where Art Thou?	2000
 Lee	Weaver	O Brother, Where Art Thou?	2000
-Mia	Tate,	O Brother, Where Art Thou?	2000
+Mia	Tate	O Brother, Where Art Thou?	2000
 Antonio	Banderas	Original Sin (2001)	2001
 Angelina	Jolie	Original Sin (2001)	2001
 Thomas	Jane	Original Sin (2001)	2001
@@ -1929,7 +1933,8 @@ D. W.	Moffett	Traffic (2000)	2000
 James	Brolin	Traffic (2000)	2000
 Albert	Finney	Traffic (2000)	2000
 Steven	Bauer	Traffic (2000)	2000
-Clifton Collins,	Jr.	Traffic (2000)	2000
+Clifton	Collins	Traffic (2000)	2000
+	Jr.	Traffic (2000)	2000
 Miguel	Ferrer	Traffic (2000)	2000
 Peter	Riegert	Traffic (2000)	2000
 Benjamin	Bratt	Traffic (2000)	2000
@@ -2134,7 +2139,8 @@ Patrick	Cranshaw	Everyone Says I Love You	1996
 Billy	Crudup	Everyone Says I Love You	1996
 Robert	Knepper	Everyone Says I Love You	1996
 Scotty	Bloch	Everyone Says I Love You	1996
-Isiah Whitlock,	Jr.	Everyone Says I Love You	1996
+Isiah	Whitlock	Everyone Says I Love You	1996
+	Jr.	Everyone Says I Love You	1996
 Kevin	Hagan	Everyone Says I Love You	1996
 Navah	Perlman	Everyone Says I Love You	1996
 Waltrudis	Buck	Everyone Says I Love You	1996
@@ -2770,7 +2776,8 @@ Adam	Nelson	The Abyss	1989
 Dick	Warlock	The Abyss	1989
 Jimmie Ray	Weeks	The Abyss	1989
 J. Kenneth	Campbell	The Abyss	1989
-William Wisher,	Jr.	The Abyss	1989
+William	Wisher	The Abyss	1989
+	Jr.	The Abyss	1989
 Ken	Jenkins	The Abyss	1989
 Anthony	Quinn	Zorba the Greek	1964
 Alan	Bates	Zorba the Greek	1964
@@ -3196,14 +3203,13 @@ James Earl	Jones	Coming to America	1988
 John	Amos	Coming to America	1988
 Madge	Sinclair	Coming to America	1988
 Shari	Headley	Coming to America	1988
-Prince Akeem,	the	Coming to America	1988
-Randy	Watson,	Coming to America	1988
-Saul,	the	Coming to America	1988
-Clarence,	the	Coming to America	1988
-Semmi,	Akeem's	Coming to America	1988
+Prince	Akeem	Coming to America	1988
+	the	Coming to America	1988
+Randy	Watson	Coming to America	1988
+	Akeem's	Coming to America	1988
 Reverend	Brown	Coming to America	1988
 Morris	the	Coming to America	1988
-Extremely Ugly	Girl,	Coming to America	1988
+Extremely Ugly	Girl	Coming to America	1988
 Paul	Bates	Coming to America	1988
 Eriq La	Salle	Coming to America	1988
 Frankie	Faison	Coming to America	1988
@@ -3226,7 +3232,8 @@ George D.	Wallace	Forbidden Planet	1956
 Robert	Dix	Forbidden Planet	1956
 Jimmy	Thompson	Forbidden Planet	1956
 James	Drury	Forbidden Planet	1956
-Harry Harvey,	Jr.	Forbidden Planet	1956
+Harry	Harvey	Forbidden Planet	1956
+	Jr.	Forbidden Planet	1956
 Roger	McGee	Forbidden Planet	1956
 Peter	Miller	Forbidden Planet	1956
 Morgan	Jones	Forbidden Planet	1956
@@ -3961,7 +3968,8 @@ David	Torrence	Disraeli (1929)	1929
 Joan	Bennett	Disraeli (1929)	1929
 Florence	Arliss	Disraeli (1929)	1929
 Anthony	Bushell	Disraeli (1929)	1929
-Michael Visocoff,	S.T.	Disraeli (1929)	1929
+Michael	Visocoff	Disraeli (1929)	1929
+	S.T.	Disraeli (1929)	1929
 Norma	Shearer	The Divorcee	1930
 Chester	Morris	The Divorcee	1930
 Conrad	Nagel	The Divorcee	1930
@@ -4192,7 +4200,8 @@ Paul	Muni	The Story of Louis Pasteur	1936
 Josephine	Hutchinson	The Story of Louis Pasteur	1936
 Anita	Louise	The Story of Louis Pasteur	1936
 Donald	Woods	The Story of Louis Pasteur	1936
-Fritz Leiber,	Sr.	The Story of Louis Pasteur	1936
+Fritz	Leiber	The Story of Louis Pasteur	1936
+	Sr.	The Story of Louis Pasteur	1936
 Henry	O'Neill	The Story of Louis Pasteur	1936
 Porter	Hall	The Story of Louis Pasteur	1936
 Raymond	Brown	The Story of Louis Pasteur	1936
@@ -4216,7 +4225,8 @@ Blanche	Yurka	A Tale of Two Cities (1935)	1935
 Henry B.	Walthall	A Tale of Two Cities (1935)	1935
 Donald	Woods	A Tale of Two Cities (1935)	1935
 Walter	Catlett	A Tale of Two Cities (1935)	1935
-Fritz Leiber,	Sr.	A Tale of Two Cities (1935)	1935
+Fritz	Leiber	A Tale of Two Cities (1935)	1935
+	Sr.	A Tale of Two Cities (1935)	1935
 H. B.	Warner	A Tale of Two Cities (1935)	1935
 Mitchell	Lewis	A Tale of Two Cities (1935)	1935
 Claude	Gillingwater	A Tale of Two Cities (1935)	1935
@@ -4376,7 +4386,8 @@ Claude	Rains	The Adventures of Robin Hood	1938
 Una	O'Connor	The Adventures of Robin Hood	1938
 Patric	Knowles	The Adventures of Robin Hood	1938
 Eugene	Pallette	The Adventures of Robin Hood	1938
-Alan Hale,	Sr.	The Adventures of Robin Hood	1938
+Alan	Hale	The Adventures of Robin Hood	1938
+	Sr.	The Adventures of Robin Hood	1938
 Herbert	Mundin	The Adventures of Robin Hood	1938
 Melville	Cooper	The Adventures of Robin Hood	1938
 Ian	Hunter	The Adventures of Robin Hood	1938
@@ -5038,7 +5049,8 @@ Charles	Boswell	Hard to Kill	1990
 James	DiStefano	Hard to Kill	1990
 Dean	Norris	Hard to Kill	1990
 Bonnie	Burroughs	Hard to Kill	1990
-Lou Beatty,	Jr.	Hard to Kill	1990
+Lou	Beatty	Hard to Kill	1990
+	Jr.	Hard to Kill	1990
 Nick	DeMauro	Hard to Kill	1990
 Nick	Corello	Hard to Kill	1990
 Justin De	Rosa	Hard to Kill	1990
@@ -5419,7 +5431,8 @@ Cindy	Williams	American Graffiti	1973
 Wolfman	Jack	American Graffiti	1973
 Ron	Howard	American Graffiti	1973
 Bo	Hopkins	American Graffiti	1973
-Manuel Padilla,	Jr.	American Graffiti	1973
+Manuel	Padilla	American Graffiti	1973
+	Jr.	American Graffiti	1973
 Harrison	Ford	American Graffiti	1973
 Lynne Marie	Stewart	American Graffiti	1973
 Terry	McGovern	American Graffiti	1973
@@ -5451,7 +5464,8 @@ Bryan	Montgomery	Badlands	1973
 Gail	Threlkeld	Badlands	1973
 Charley	Fitzpatrick	Badlands	1973
 Howard	Ragsdale	Badlands	1973
-John Womack,	Jr.	Badlands	1973
+John	Womack	Badlands	1973
+	Jr.	Badlands	1973
 Dona	Baldwin	Badlands	1973
 Ben	Bravo	Badlands	1973
 Al	Jolson	The Jazz Singer	1927
@@ -5627,7 +5641,8 @@ Harry	Tyler	The Quiet Man	1952
 Al	Murphy	The Quiet Man	1952
 Hank	Worden	The Quiet Man	1952
 Michael	O'Brian	The Quiet Man	1952
-Patrick H. O'Malley,	Jr.	The Quiet Man	1952
+Patrick H.	O'Malley	The Quiet Man	1952
+	Jr.	The Quiet Man	1952
 Frank	O'Connor	The Quiet Man	1952
 Web	Overlander	The Quiet Man	1952
 Bob	Perry	The Quiet Man	1952
@@ -5941,7 +5956,8 @@ Robert	Shayne	North by Northwest	1959
 Sara	Berner	North by Northwest	1959
 Frank	Powell	A Corner in Wheat	1909
 Grace	Henderson	A Corner in Wheat	1909
-James Kirkwood,	Sr.	A Corner in Wheat	1909
+James	Kirkwood	A Corner in Wheat	1909
+	Sr.	A Corner in Wheat	1909
 Linda	Arvidson	A Corner in Wheat	1909
 W. C.	Miller	A Corner in Wheat	1909
 Gladys	Egan	A Corner in Wheat	1909
@@ -6152,11 +6168,12 @@ Carmen	Phillips	Easy Rider	1969
 Ellie	Walker	Easy Rider	1969
 Michael	Pataki	Easy Rider	1969
 Bridget	Fonda	Easy Rider	1969
-George Fowler,	Jr.	Easy Rider	1969
+George	Fowler	Easy Rider	1969
+	Jr.	Easy Rider	1969
 Keith	Green	Easy Rider	1969
 Hayward	Robillard	Easy Rider	1969
-Arnold Hess,	Jr.	Easy Rider	1969
-Buddy Causey,	Jr.	Easy Rider	1969
+Arnold	Hess	Easy Rider	1969
+Buddy	Causey	Easy Rider	1969
 Duffy	Lafont	Easy Rider	1969
 Blase M.	Dawson	Easy Rider	1969
 Paul	Guedry	Easy Rider	1969
@@ -6423,7 +6440,8 @@ Donald	Gallaher	The Great Train Robbery (1903)	1903
 Frank	Hanaway	The Great Train Robbery (1903)	1903
 Adam Charles	Hayman	The Great Train Robbery (1903)	1903
 Tom	London	The Great Train Robbery (1903)	1903
-John Manus Dougherty,	Sr.	The Great Train Robbery (1903)	1903
+John Manus	Dougherty	The Great Train Robbery (1903)	1903
+	Sr.	The Great Train Robbery (1903)	1903
 Robert	Milasch	The Great Train Robbery (1903)	1903
 Marie	Murray	The Great Train Robbery (1903)	1903
 Mary	Snow	The Great Train Robbery (1903)	1903
@@ -7521,7 +7539,8 @@ John	Qualen	The Searchers	1956
 Olive	Carey	The Searchers	1956
 Henry	Brandon	The Searchers	1956
 Ken	Curtis	The Searchers	1956
-Harry Carey,	Jr.	The Searchers	1956
+Harry	Carey	The Searchers	1956
+	Jr.	The Searchers	1956
 Antonio	Moreno	The Searchers	1956
 Hank	Worden	The Searchers	1956
 Beulah	Archuletta	The Searchers	1956
@@ -7723,7 +7742,8 @@ H. B.	Warner	The Ten Commandments (1956)	1956
 Julia	Faye	The Ten Commandments (1956)	1956
 Lisa	Mitchell	The Ten Commandments (1956)	1956
 Abbas El	Boughdadly	The Ten Commandments (1956)	1956
-Cavalry Corps, Egyptian Armed	Forces	The Ten Commandments (1956)	1956
+Cavalry	Corps	The Ten Commandments (1956)	1956
+ Egyptian Armed	Forces	The Ten Commandments (1956)	1956
 Fraser Clarke	Heston	The Ten Commandments (1956)	1956
 John	Miljan	The Ten Commandments (1956)	1956
 Francis	McDonald	The Ten Commandments (1956)	1956
@@ -8012,7 +8032,8 @@ Irene	Manning	Yankee Doodle Dandy	1942
 George	Tobias	Yankee Doodle Dandy	1942
 Rosemary	DeCamp	Yankee Doodle Dandy	1942
 Jeanne	Cagney	Yankee Doodle Dandy	1942
-Eddie Foy,	Jr.	Yankee Doodle Dandy	1942
+Eddie	Foy	Yankee Doodle Dandy	1942
+	Jr.	Yankee Doodle Dandy	1942
 Frances	Langford	Yankee Doodle Dandy	1942
 George	Barbier	Yankee Doodle Dandy	1942
 S. Z.	Sakall	Yankee Doodle Dandy	1942
@@ -8228,7 +8249,8 @@ Virginia	Gilmore	The Pride of the Yankees	1942
 Bill	Dickey	The Pride of the Yankees	1942
 Ernie	Adams	The Pride of the Yankees	1942
 Pierre	Watkin	The Pride of the Yankees	1942
-Harry Harvey,	Sr.	The Pride of the Yankees	1942
+Harry	Harvey	The Pride of the Yankees	1942
+	Sr.	The Pride of the Yankees	1942
 Bob	Meusel	The Pride of the Yankees	1942
 Mark	Koenig	The Pride of the Yankees	1942
 Bill	Stern	The Pride of the Yankees	1942
@@ -9792,7 +9814,8 @@ Kevin	Smith	Dogma	1999
 George	Carlin	Dogma	1999
 Bud	Cort	Dogma	1999
 Alanis	Morissette	Dogma	1999
-Barret Hackney, Jared	Pfennigwerth,	Dogma	1999
+Barret	Hackney	Dogma	1999
+ Jared	Pfennigwerth	Dogma	1999
 Rex	Harrison	Doctor Dolittle (1967)	1967
 Samantha	Eggar	Doctor Dolittle (1967)	1967
 Anthony	Newley	Doctor Dolittle (1967)	1967
@@ -10466,7 +10489,8 @@ Chris	Isaak	That Thing You Do!	1996
 Larry	Antonino	That Thing You Do!	1996
 Holmes	Osborne	That Thing You Do!	1996
 Robert	Torti	That Thing You Do!	1996
-Kennya Ramsey, Julie	Harkness,	That Thing You Do!	1996
+Kennya	Ramsey	That Thing You Do!	1996
+ Julie	Harkness	That Thing You Do!	1996
 Chaille	Percival	That Thing You Do!	1996
 Eddie	Lineberry	That Thing You Do!	1996
 Chris	Ellis	That Thing You Do!	1996
@@ -10482,7 +10506,8 @@ Barry	Sobel	That Thing You Do!	1996
 Jonathan	Demme	That Thing You Do!	1996
 Rita	Wilson	That Thing You Do!	1996
 Colin	Hanks	That Thing You Do!	1996
-Elizabeth Hanks,	Hanks'	That Thing You Do!	1996
+Elizabeth	Hanks	That Thing You Do!	1996
+	Hanks'	That Thing You Do!	1996
 Howie	Long	That Thing You Do!	1996
 Toshiro	Mifune	Throne of Blood	1957
 Isuzu	Yamada	Throne of Blood	1957
@@ -10749,7 +10774,8 @@ Cindy	Manion	The Toxic Avenger	1984
 Chris	Liano	The Toxic Avenger	1984
 David N.	Weiss	The Toxic Avenger	1984
 Doug	Isbecque	The Toxic Avenger	1984
-Charles Lee,	Jr.	The Toxic Avenger	1984
+Charles	Lee	The Toxic Avenger	1984
+	Jr.	The Toxic Avenger	1984
 Patrick	Kilpatrick	The Toxic Avenger	1984
 Larry	Sulton	The Toxic Avenger	1984
 Michael	Russo	The Toxic Avenger	1984
@@ -12236,7 +12262,8 @@ Al	Alleborn	The Patent Leather Kid	1927
 Billy	Bletcher	The Patent Leather Kid	1927
 Charles	Darvas	The Patent Leather Kid	1927
 Fred	Kelsey	The Patent Leather Kid	1927
-Harold Lockwood,	Jr.	The Patent Leather Kid	1927
+Harold	Lockwood	The Patent Leather Kid	1927
+	Jr.	The Patent Leather Kid	1927
 Lafe	McKee	The Patent Leather Kid	1927
 Charlie	Chaplin	The Circus (1928)	1928
 Al Ernest	Garcia	The Circus (1928)	1928
@@ -12335,8 +12362,8 @@ Charles Henry	Lay	Thunderbolt (1910)	1910
 Elizabeth	Tait	The Story of the Kelly Gang	1906
 John	Tait	The Story of the Kelly Gang	1906
 John	Forde	The Story of the Kelly Gang	1906
-Frank	Mills,	The Story of the Kelly Gang	1906
-Will	Coyne,	The Story of the Kelly Gang	1906
+Frank	Mills	The Story of the Kelly Gang	1906
+Will	Coyne	The Story of the Kelly Gang	1906
 John	Call	Santa Claus Conquers the Martians	1964
 Leonard	Hicks	Santa Claus Conquers the Martians	1964
 Vincent	Beck	Santa Claus Conquers the Martians	1964
@@ -13147,7 +13174,7 @@ Simone	Signoret	Les Diaboliques	1955
 Vera	Clouzot	Les Diaboliques	1955
 Paul	Meurisse	Les Diaboliques	1955
 Charles	Vanel	Les Diaboliques	1955
-Susan	Hayward,	Les Diaboliques	1955
+Susan	Hayward	Les Diaboliques	1955
 Jean	Brochard	Les Diaboliques	1955
 Pierre	Larquey	Les Diaboliques	1955
 Michel	Serrault	Les Diaboliques	1955
@@ -13288,7 +13315,8 @@ Adrienne	Corri	Quo Vadis (1951)	1951
 Walter	Pidgeon	Quo Vadis (1951)	1951
 Frank	Sinatra	Ocean's 11	1960
 Dean	Martin	Ocean's 11	1960
-Sammy Davis,	Jr.	Ocean's 11	1960
+Sammy	Davis	Ocean's 11	1960
+	Jr.	Ocean's 11	1960
 Peter	Lawford	Ocean's 11	1960
 Joey	Bishop	Ocean's 11	1960
 Angie	Dickinson	Ocean's 11	1960
@@ -14371,7 +14399,8 @@ John	Harkins	Being There	1979
 Elya	Baskin	Being There	1979
 Richard	McKenzie	Being There	1979
 Oteil	Burbridge	Being There	1979
-Hoyt Clark Harris,	Jr.	Being There	1979
+Hoyt Clark	Harris	Being There	1979
+	Jr.	Being There	1979
 Al	Pacino	...And Justice for All.	1979
 Jack	Warden	...And Justice for All.	1979
 John	Forsythe	...And Justice for All.	1979
@@ -14740,7 +14769,8 @@ George	Merritt	A Canterbury Tale	1944
 Freda	Jackson	A Canterbury Tale	1944
 Eliot	Makeham	A Canterbury Tale	1944
 Harvey	Golden	A Canterbury Tale	1944
-Leonard Smith, James	Tamsitt	A Canterbury Tale	1944
+Leonard	Smith	A Canterbury Tale	1944
+ James	Tamsitt	A Canterbury Tale	1944
 Raymond	Massey	A Canterbury Tale	1944
 Tommy Lee	Jones	Men in Black (1997)	1997
 Will	Smith	Men in Black (1997)	1997
@@ -14763,7 +14793,9 @@ David	Cross	Men in Black (1997)	1997
 Sean	Whalen	Men in Black (1997)	1997
 Tim	Blaney	Men in Black (1997)	1997
 Mark	Sektrakian	Men in Black (1997)	1997
-Brad Abrell, Thom Fountain, Carl J.	Johnson	Men in Black (1997)	1997
+Brad	Abrell	Men in Black (1997)	1997
+ Thom	Fountain	Men in Black (1997)	1997
+ Carl J.	Johnson	Men in Black (1997)	1997
 Wesley	Snipes	Jungle Fever	1991
 Annabella	Sciorra	Jungle Fever	1991
 Spike	Lee	Jungle Fever	1991
@@ -15463,8 +15495,9 @@ Joseph	Anderson	Mr. Holland's Opus	1995
 Nicholas John	Renner	Mr. Holland's Opus	1995
 Beth	Maitland	Mr. Holland's Opus	1995
 Kathryn	Arnett	Mr. Holland's Opus	1995
-Kelly M. Casey,	the	Mr. Holland's Opus	1995
-Ted	Roisum,	Mr. Holland's Opus	1995
+Kelly M.	Casey	Mr. Holland's Opus	1995
+	the	Mr. Holland's Opus	1995
+Ted	Roisum	Mr. Holland's Opus	1995
 Denis	Biasi	Mr. Holland's Opus	1995
 Balthazar	Getty	Mr. Holland's Opus	1995
 Anthony	Hopkins	Nixon	1995
