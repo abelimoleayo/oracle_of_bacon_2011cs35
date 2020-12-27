@@ -764,11 +764,10 @@ Kaitlin	Cullum	Galaxy Quest	1999
 Jonathan	Feyer	Galaxy Quest	1999
 Wayne	Pere	Galaxy Quest	1999
 Sam	Lloyd	Galaxy Quest	1999
-Ed Wood	<small>	Glen or Glenda	1953
+Ed	Wood	Glen or Glenda	1953
 Timothy	Farrell	Glen or Glenda	1953
 Dolores	Fuller	Glen or Glenda	1953
 Bela	Lugosi	Glen or Glenda	1953
-Ed	Wood	Glen or Glenda	1953
 'Tommy'	Haynes	Glen or Glenda	1953
 Lyle	Talbot	Glen or Glenda	1953
 Charlie	Crafts	Glen or Glenda	1953
@@ -2141,7 +2140,21 @@ Navah	Perlman	Everyone Says I Love You	1996
 Waltrudis	Buck	Everyone Says I Love You	1996
 Christy Carlson	Romano	Everyone Says I Love You	1996
 Arlene	Martell	Everyone Says I Love You	1996
-Helen Miles Singers Helen Miles, Arlene Martell, Emily Bindiger, Cindy Cobitt, Al Dana, Kevin DeSimone, Paul Evans, Chrissy Faith, Jeff Lyons, Michael Mark, Jenna Miles, Robert Ragaini, Lenny Roberts, Annette Sanders, Terry Textor, Vaneese	Thomas	Everyone Says I Love You	1996
+Helen	Miles	Everyone Says I Love You	1996
+Emily	Bindiger	Everyone Says I Love You	1996
+Cindy	Cobitt	Everyone Says I Love You	1996
+Al	Dana	Everyone Says I Love You	1996
+Kevin	DeSimone	Everyone Says I Love You	1996
+Paul	Evans	Everyone Says I Love You	1996
+Chrissy	Faith	Everyone Says I Love You	1996
+Jeff	Lyons	Everyone Says I Love You	1996
+Michael	Mark	Everyone Says I Love You	1996
+Jenna	Miles	Everyone Says I Love You	1996
+Robert	Ragaini	Everyone Says I Love You	1996
+Lenny	Roberts	Everyone Says I Love You	1996
+Annette	Sanders	Everyone Says I Love You	1996
+Terry	Textor	Everyone Says I Love You	1996
+Vaneese	Thomas	Everyone Says I Love You	1996
 Burt	Lancaster	From Here to Eternity	1953
 Montgomery	Clift	From Here to Eternity	1953
 Deborah	Kerr	From Here to Eternity	1953
@@ -3457,9 +3470,8 @@ Grace La	Rue	She Done Him Wrong	1933
 Robert	Homans	She Done Him Wrong	1933
 Louise	Beavers	She Done Him Wrong	1933
 Paul	Muni	The Good Earth	1937
-and [[Luise	Rainer]]	The Good Earth	1937
-Tilly	Losch	The Good Earth	1937
 Luise	Rainer	The Good Earth	1937
+Tilly	Losch	The Good Earth	1937
 Charley	Grapewin	The Good Earth	1937
 Walter	Connolly	The Good Earth	1937
 Jessie	Ralph	The Good Earth	1937
@@ -4306,7 +4318,6 @@ Victor	Wong	Lost Horizon (1937)	1937
 Sonny	Bupp	Lost Horizon (1937)	1937
 Noble	Johnson	Lost Horizon (1937)	1937
 Margaret	McWade	Lost Horizon (1937)	1937
-Deanna Durbin]] and [[Leopold	Stokowski	One Hundred Men and a Girl	1937
 Deanna	Durbin	One Hundred Men and a Girl	1937
 Adolphe	Menjou	One Hundred Men and a Girl	1937
 Leopold	Stokowski	One Hundred Men and a Girl	1937
@@ -6056,7 +6067,8 @@ Charles	McMurphy	The Docks of New York	1928
 Guy	Oliver	The Docks of New York	1928
 Bob	Reeves	The Docks of New York	1928
 Lillian	Worth	The Docks of New York	1928
-Stan Brakhage<br/ > [[Jane	Wodening	Dog Star Man	1961
+Stan	Brakhage	Dog Star Man	1961
+Jane	Wodening	Dog Star Man	1961
 Bob	Dylan	Dont Look Back	1967
 Albert	Grossman	Dont Look Back	1967
 Bob	Neuwirth	Dont Look Back	1967
@@ -7036,7 +7048,7 @@ Gavin	Gordon	Suspicion (1941)	1941
 Lumsden	Hare	Suspicion (1941)	1941
 Aubrey	Mather	Suspicion (1941)	1941
 Constance	Worth	Suspicion (1941)	1941
-The [[K	Foundation]]	K Foundation Burn a Million Quid	1995
+K	Foundation	K Foundation Burn a Million Quid	1995
 Mel	Brooks	Spaceballs	1987
 John	Candy	Spaceballs	1987
 Rick	Moranis	Spaceballs	1987
@@ -7046,8 +7058,7 @@ Dick Van	Patten	Spaceballs	1987
 George	Wyner	Spaceballs	1987
 Joan	Rivers	Spaceballs	1987
 Michael	Winslow	Spaceballs	1987
-Dot Matrix	''	Spaceballs	1987
-Shields and	Yarnell	Spaceballs	1987
+Lorene	Yarnell	Spaceballs	1987
 Ronny	Graham	Spaceballs	1987
 Jim J.	Bullock	Spaceballs	1987
 Leslie	Bevis	Spaceballs	1987
@@ -10826,10 +10837,9 @@ Michael	Madsen	Thelma & Louise	1991
 Christopher	McDonald	Thelma & Louise	1991
 Stephen	Tobolowsky	Thelma & Louise	1991
 Brad	Pitt	Thelma & Louise	1991
-Timothy Carhart		Thelma & Louise	1991
+Timothy	Carhart	Thelma & Louise	1991
 Jason	Beghe	Thelma & Louise	1991
 Marco St.	John	Thelma & Louise	1991
-Timothy	Carhart	Thelma & Louise	1991
 Mel	Gibson	What Women Want	2000
 Helen	Hunt	What Women Want	2000
 Marisa	Tomei	What Women Want	2000
@@ -11430,8 +11440,8 @@ Allelon	Ruggiero	Dead Poets Society	1989
 Alexandra	Powers	Dead Poets Society	1989
 Leon	Pownall	Dead Poets Society	1989
 George	Martin	Dead Poets Society	1989
-Jane Moore as Mrs.	Danburry	Dead Poets Society	1989
-Kevin Cooney as Joe	Danburry	Dead Poets Society	1989
+Jane	Moore	Dead Poets Society	1989
+Kevin	Cooney	Dead Poets Society	1989
 Colin	Irving	Dead Poets Society	1989
 Matt	Carey	Dead Poets Society	1989
 John	Cunningham	Dead Poets Society	1989
@@ -12242,13 +12252,13 @@ Fay	Wray	Thunderbolt (1929)	1929
 Richard	Arlen	Thunderbolt (1929)	1929
 Tully	Marshall	Thunderbolt (1929)	1929
 Eugenie	Besserer	Thunderbolt (1929)	1929
-James Spottswood	as	'Snapper'	O'Shea	Thunderbolt (1929)	1929
+James	Spottswood	Thunderbolt (1929)	1929
 Robert	Elliott	Thunderbolt (1929)	1929
 Fred	Kohler	Thunderbolt (1929)	1929
 E.H.	Calvert	Thunderbolt (1929)	1929
 George	Irving	Thunderbolt (1929)	1929
 Mike	Donlin	Thunderbolt (1929)	1929
-S.S.	Stewart	as	Prisoner	Thunderbolt (1929)	1929
+S.S.	Stewart	Thunderbolt (1929)	1929
 William L.	Thorne	Thunderbolt (1929)	1929
 Ernie	Adams	Thunderbolt (1929)	1929
 Elmer	Ballard	Thunderbolt (1929)	1929
@@ -14723,7 +14733,7 @@ Eric	Portman	A Canterbury Tale	1944
 Sheila	Sim	A Canterbury Tale	1944
 Dennis	Price	A Canterbury Tale	1944
 John	Sweet	A Canterbury Tale	1944
-Kim Hunter]]	''	A Canterbury Tale	1944
+Kim	Hunter	A Canterbury Tale	1944
 Charles	Hawtrey	A Canterbury Tale	1944
 Esmond	Knight	A Canterbury Tale	1944
 George	Merritt	A Canterbury Tale	1944
@@ -14731,7 +14741,6 @@ Freda	Jackson	A Canterbury Tale	1944
 Eliot	Makeham	A Canterbury Tale	1944
 Harvey	Golden	A Canterbury Tale	1944
 Leonard Smith, James	Tamsitt	A Canterbury Tale	1944
-Kim	Hunter	A Canterbury Tale	1944
 Raymond	Massey	A Canterbury Tale	1944
 Tommy Lee	Jones	Men in Black (1997)	1997
 Will	Smith	Men in Black (1997)	1997
